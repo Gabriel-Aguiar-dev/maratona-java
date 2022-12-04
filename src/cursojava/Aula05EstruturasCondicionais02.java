@@ -1,6 +1,6 @@
 package cursojava;
 
-public class Aula05EstruturasCondicionais02ElseIf {
+public class Aula05EstruturasCondicionais02 {
 
 	public static void main(String[] args) {
 		// idade < 15 categoria infantil

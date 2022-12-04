@@ -1,6 +1,6 @@
 package cursojava;
 
-public class Aula04UOperadoresLogicosOR {
+public class Aula04OperadoresLogicosOR {
 
 	public static void main(String[] args) {
 		double valorTotalContaCorrente = 200;

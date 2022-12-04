@@ -1,6 +1,6 @@
 package cursojava;
 
-public class Aula08ArraysMultidimensionais {
+public class Aula08ArraysMultidimensionais01 {
 
 	int[][] dias = new int[3][3]
 
@@ -18,6 +18,5 @@ public class Aula08ArraysMultidimensionais {
 
 	}
 
-	
 
 

@@ -1,6 +1,6 @@
 package cursojava;
 
-public class Aula05EstruturasCondicionais03OperadorTernário {
+public class Aula05EstruturasCondicionais03 {
 
 	public static void main(String[] args) {
 		// Doar se o salario for > 5000

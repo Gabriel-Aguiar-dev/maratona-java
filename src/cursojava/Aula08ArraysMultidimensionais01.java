@@ -18,6 +18,14 @@ public class Aula08ArraysMultidimensionais01 {
 			for (int j = 0; j < dias[0].length; j++) {
 				System.out.println(dias[i][j]);
 			}
+
+			System.out.println("----------A MESMA COISA-----------");
+
+			for(int[]arrBase:dias){
+				for(int num : arrBase){
+					System.out.println(num);
+				}
+			}
 		}
 	}
 }
